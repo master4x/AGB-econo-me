@@ -7,15 +7,16 @@
  *
  * Copyright (c) 2017 Daniel Eden
  */
-
 .animated {
   animation-duration: 1s;
   animation-fill-mode: both;
 }
+
 .animated-fast {
   animation-duration: .3s;
   animation-fill-mode: both;
 }
+
 .element-animated {
   animation-duration: 1s;
   animation-fill-mode: both;
@@ -39,7 +40,7 @@
 @keyframes bounce {
   from, 20%, 53%, 80%, to {
     animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
-    transform: translate3d(0,0,0);
+    transform: translate3d(0, 0, 0);
   }
 
   40%, 43% {
@@ -53,7 +54,7 @@
   }
 
   90% {
-    transform: translate3d(0,-4px,0);
+    transform: translate3d(0, -4px, 0);
   }
 }
 
@@ -77,7 +78,6 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
-
 @keyframes pulse {
   from {
     transform: scale3d(1, 1, 1);
@@ -233,7 +233,6 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
-
 @keyframes wobble {
   from {
     transform: none;
@@ -1262,7 +1261,6 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
-
 @keyframes rollIn {
   from {
     opacity: 0;
@@ -1280,7 +1278,6 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
-
 @keyframes rollOut {
   from {
     opacity: 1;
