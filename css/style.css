@@ -9,6 +9,7 @@ body {
   line-height: 1.8;
   font-weight: 300;
   color: gray;
+  cursor: url(../images/cursor.png), text;
 }
 
 p, ul, ol {
