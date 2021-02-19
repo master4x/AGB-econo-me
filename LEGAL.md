@@ -14,7 +14,8 @@ Bildungsgang Berufliches Gymnasium
 
 August-Griese-Berufskolleg
 
-Jahnstraße 54-68  
+Jahnstraße 54-68 
+
 32584 Löhne
 
 **Verantwortlich für den Inhalt & Datenschutz**  
