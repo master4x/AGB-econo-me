@@ -73,6 +73,10 @@ textarea.form-control {
   height: 47px !important;
 }
 
+.footer-icon {
+  fill: white;
+}
+
 /* Site Menu*/
 .site-menu {
   display: block;
