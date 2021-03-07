@@ -1,4 +1,4 @@
-# Rechtliche Informationen zu AGB-ECONO.ME
+*Rechtliche Informationen*
 
 ## Disclaimer
 
