@@ -8,15 +8,11 @@ Wir können weder für die Richtigkeit, noch die Aktualität der Inhalte garanti
 
 ## Impressum
 
-Klasse AH911 & Aufsichtslehrer
-
-Bildungsgang Berufliches Gymnasium
-
-August-Griese-Berufskolleg
-
-Jahnstraße 54-68 
-
-32584 Löhne
+Klasse AH911 & Aufsichtslehrer  
+Bildungsgang Berufliches Gymnasium  
+August-Griese-Berufskolleg  
+Jahnstraße 54-68  
+32584 Löhne  
 
 **Verantwortlich für den Inhalt & Datenschutz**  
 Interne Kursbezeichnung: AH911_WL (2020/21)
